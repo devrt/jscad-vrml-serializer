@@ -1,0 +1,22 @@
+{
+  "name": "@jscad/vrml-serializer",
+  "author": "Yosuke Matsusaka <yosuke.matsusaka@gmail.com>",
+  "version": "0.0.1",
+  "description": "VRML serializer for the jscad project (from CSG)",
+  "repository": "https://github.com/devrt/jscad-vrml-serializer",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "openjscad",
+    "jscad",
+    "csg",
+    "serializer",
+    "vrml"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
